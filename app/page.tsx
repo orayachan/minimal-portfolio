@@ -140,6 +140,11 @@ export default function Personal() {
           <p className="text-zinc-600 dark:text-zinc-400">
             Passionate about tech and currently transitioning into full-stack development. Motivated by real-world problems I encountered while working in animal healthcare, I enjoy creating user-focused solutions that make a real impact.
           </p>
+          <br></br>
+          <p className="text-zinc-600 dark:text-zinc-400">
+            <span className='font-semibold'>Tech skills:</span>
+            <span> HTML, CSS, Tailwind, Bootstrap, JavaScript, React, Next.js, Node.js, Express, Git, SQL, MongoDB and Figma</span>
+          </p>
         </div>
       </motion.section>
 
@@ -252,7 +257,7 @@ export default function Personal() {
         variants={VARIANTS_SECTION}
         transition={TRANSITION_SECTION}
       >
-        <h3 className="mb-3 text-lg font-medium">Blog</h3>
+        <h3 className="mb-3 text-lg font-medium">About</h3>
         <div className="flex flex-col space-y-0">
           <AnimatedBackground
             enableHover

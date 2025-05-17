@@ -13,8 +13,12 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: 'Portfolio | Oraya Chantanawat',
-  description:
-    'Minimal theme portfolio.',
+  description: "Oraya Chantanawat's portfolio.",
+  icons: {
+    icon: '/bear.png',
+    shortcut: '/bear.png',
+    apple: '/bear.png',
+  },
 }
 
 const geist = Geist({

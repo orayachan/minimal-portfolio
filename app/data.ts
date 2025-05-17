@@ -40,9 +40,9 @@ type SocialLink = {
 
 export const PROJECTS: Project[] = [
   {
-    name: 'Pickled-Cat',
+    name: 'PICKLED-CAT | E-Commerce',
     description:
-      'The e-commerce platform for cat-related products using MERN stack.',
+      'A responsive e-commerce platform for cat-related products using MERN stack.',
     link: 'https://jsd9-pickled-cat-frontend.vercel.app/',
     video:
       'https://res.cloudinary.com/dhmwrypox/video/upload/v1747468934/ag1szwfxdrgaonsws4cb.mov',
@@ -53,7 +53,7 @@ export const PROJECTS: Project[] = [
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
     company: 'Generation Thailand',
-    title: 'Junior Software Developer (Cohort9)',
+    title: 'Junior Software Developer (Learner - Cohort9)',
     start: 'Feb 2025',
     end: 'May 2025',
     link: '',
