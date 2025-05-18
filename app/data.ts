@@ -42,11 +42,20 @@ export const PROJECTS: Project[] = [
   {
     name: 'PICKLED-CAT | E-Commerce',
     description:
-      'A responsive e-commerce platform for cat-related products using MERN stack.',
+      'A responsive e-commerce platform for cat-related products using MERN stack Features include product browsing, user authentication, and a functional shopping cart system.',
     link: 'https://jsd9-pickled-cat-frontend.vercel.app/',
     video:
-      'https://res.cloudinary.com/dhmwrypox/video/upload/v1747468934/ag1szwfxdrgaonsws4cb.mov',
+      'https://res.cloudinary.com/dhmwrypox/video/upload/v1747518516/n1tzyltmne36fh61mffk.mov',
     id: 'project1',
+  },
+  {
+    name: 'Rock Paper Scissors | Mini-game',
+    description:
+      'A simple interactive web game built with HTML, CSS, and JavaScript. Players compete against the computer with real-time score tracking and a clean, responsive UI.',
+    link: 'https://orayachan.github.io/rock-paper-scissors/',
+    video:
+      'https://res.cloudinary.com/dhmwrypox/video/upload/v1747515477/jvro5v9loybv45sglelw.mov',
+    id: 'project2',
   },
 ]
 

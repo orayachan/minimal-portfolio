@@ -15,9 +15,9 @@ export const metadata: Metadata = {
   title: 'Portfolio | Oraya Chantanawat',
   description: "Oraya Chantanawat's portfolio.",
   icons: {
-    icon: '/bear.png',
-    shortcut: '/bear.png',
-    apple: '/bear.png',
+    icon: '/code.png',
+    shortcut: '/code.png',
+    apple: '/code.png',
   },
 }
 
