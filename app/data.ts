@@ -51,7 +51,7 @@ export const PROJECTS: Project[] = [
   {
     name: 'Rock Paper Scissors | Mini-game',
     description:
-      'A simple interactive web game built with HTML, CSS, and JavaScript. Players compete against the computer with real-time score tracking and a clean, responsive UI.',
+      'A simple mini-game built with HTML, CSS, and JavaScript. Players compete against the computer with real-time interaction and a clean, responsive UI.',
     link: 'https://orayachan.github.io/rock-paper-scissors/',
     video:
       'https://res.cloudinary.com/dhmwrypox/video/upload/v1747515477/jvro5v9loybv45sglelw.mov',
